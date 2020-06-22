@@ -1,0 +1,17 @@
+mmWave_Manager: {BW: 1700318848.0, PRI: 8.600000001024455e-05, adcStartTime: 7.0,
+  chirpEndIdx: 2, chirpStartIdx: 0, command_port: /dev/ttyACM0, command_rate: 115200,
+  data_port: /dev/ttyACM1, data_rate: 921600, digOutSampleRate: 3764.0, doppler_vel_resolution: 0.14689309895038605,
+  f_c: 61800161280.0, f_s: 3764000.0, fc_chirp: 61100158976.0, framePeriodicity: 33.33300018310547,
+  freqSlopeConst: 100.0, idleTime: 61.0, max_allowed_azimuth_angle_deg: 90, max_allowed_elevation_angle_deg: 90,
+  max_doppler_vel: 9.401158332824707, max_range: 4.513674736022949, numAdcSamples: 64,
+  numFrames: 0, numLoops: 64, num_TX: 3, rampEndTime: 25.0, range_resolution: 0.08815771341323853,
+  rxGain: 30.0, startFreq: 60.25, t_fr: 0.03333299979567528}
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_alex_pc__35295: 'http://alex-pc:35295/', host_alex_pc__36859: 'http://alex-pc:36859/'}
+rosversion: '1.12.14
+
+  '
+run_id: 323a0866-6269-11e9-a4b6-c8d9d215fd3e

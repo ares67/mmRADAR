@@ -1,0 +1,3 @@
+<launch>
+    <node pkg = "point_process_pkg" name = "point_process_pkg" type = "point_process.py" output="screen" />
+</launch>

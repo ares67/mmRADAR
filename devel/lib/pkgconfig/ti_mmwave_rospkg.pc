@@ -1,0 +1,8 @@
+prefix=/home/lizhan/aaa/devel
+
+Name: ti_mmwave_rospkg
+Description: Description of ti_mmwave_rospkg
+Version: 1.5.0
+Cflags: -I/home/lizhan/aaa/devel/include -I/home/lizhan/aaa/src/ti_mmwave_rospkg/include
+Libs: -L/home/lizhan/aaa/devel/lib -lmmwave
+Requires: 

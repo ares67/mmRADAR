@@ -1,0 +1,5 @@
+source /home/lizhan/aaa/devel/setup.bash
+roslaunch ti_mmwave_rospkg rviz_6843AOP_3d.launch
+source /home/lizhan/aaa/devel/setup.bash
+rosparam load 3d.yaml
+python point_process.py
